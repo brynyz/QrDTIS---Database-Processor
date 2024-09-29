@@ -1,0 +1,24 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore Qt build directories
+build-*/
+
+# Qt Creator project files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+# Ignore IDE project files (for example, IntelliJ IDEA, PyCharm, etc.)
+.idea/
+
+# Ignore build artifacts
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+*.lib
+*.dll
+
